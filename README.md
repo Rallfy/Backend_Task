@@ -15,4 +15,5 @@ To standardize the table, I:
  - Created consistent column names
  - Used regex to separate numbers from their units in key specs
  - Removed the phi symbol (φ) from the diameter spec, leaving only the numeric value
-Thank you for reviewing this project!
+
+**Thank you for reviewing!**
